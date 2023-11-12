@@ -2,3 +2,5 @@
 
 ##comando git push
 ##comando git pull
+
+##omando git fetch
