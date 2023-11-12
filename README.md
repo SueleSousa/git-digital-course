@@ -1,3 +1,4 @@
 # git-digital-course
 
-##teste teste 
+##comando git push
+##comando git pull
